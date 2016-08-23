@@ -1,7 +1,7 @@
 # Web Technologies Syllabus
 
 * **Course:** CPTR 335 - Web Technologies
-* **Instructor:** Cody Johnson, [bebarber@ucollege.edu](mailto:bebarber@ucollege.edu)
+* **Instructor:** Ben Barber, [bebarber@ucollege.edu](mailto:bebarber@ucollege.edu)
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
